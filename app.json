@@ -1,8 +1,8 @@
 {
-  "name": "SHABAN-MD",
-  "description": "Javascript WhatsApp bot made by 𝐌𝐑 𝐒𝐇𝐀𝐁𝐀𝐍",
+  "name": "JIT BOT",
+  "description": "Javascript WhatsApp bot made by 𝐌𝐑 JIT",
   "logo": "https://i.ibb.co/mCfPfmJL/shaban-md.jpg",
-  "keywords": ["SHABAN-MD"],
+  "keywords": ["Jit bot"],
   "success_url": "/",
 
     "stack": "container",
@@ -91,12 +91,12 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*SᴇᴇN YᴏᴜʀE SᴛᴀᴛᴜS JᴜsT NᴏW Sʜᴀʙᴀɴ-Mᴅ 𓅓*"
+      "value": "*SᴇᴇN YᴏᴜʀE SᴛᴀᴛᴜS JᴜsT NᴏW JIT 𓅓*"
    
      }, 
 
     "BOT_NAME": {
-      "description": "Type here the bot name.",
+      "description": "JIT BOT.",
       "required": false,
       "value": "SHABAN-MD V5"
 
